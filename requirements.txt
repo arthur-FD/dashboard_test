@@ -1,0 +1,4 @@
+--extra-index-url=https://dash.fifthdelta.com/Docs/packages
+dash-design-kit==1.5.4
+dash==1.14.0
+gunicorn==19.9.0
